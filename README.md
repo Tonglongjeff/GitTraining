@@ -1,3 +1,5 @@
 # GitTraining
 
-Adding additonal text to the file
+Adding additional text to the file
+
+Also fixing spelling mistake
